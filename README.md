@@ -1,5 +1,5 @@
 # Blog-Page
-a simple blog page using Html
+a simple blog page using Html and here is output look-like
 ![Screenshot (1276)](https://user-images.githubusercontent.com/96402850/224812302-4a427f70-1f3f-403a-b11d-20f8837666d4.png)
 ![Screenshot (1277)](https://user-images.githubusercontent.com/96402850/224812402-e0ff0153-e242-4477-a00b-ea15b21c0237.png)
 ![Screenshot (1278)](https://user-images.githubusercontent.com/96402850/224812422-129984c9-5fd9-43fd-9ef0-0a5c23010d8f.png)
